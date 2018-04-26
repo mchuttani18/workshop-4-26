@@ -3,3 +3,15 @@
   background: rgba(255,255,255,.2);
   margin: 16px;
 }
+
+.ant-carousel .slick-slide {
+ text-align: center;
+ height: 160px;
+ line-height: 160px;
+ //background: #364d79;
+ background-image: url('./img/clapping1.gif');
+ overflow: hidden;
+}
+.ant-carousel .slick-slide h3 {
+ color: #fff;
+}
